@@ -1,0 +1,14 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "rollno": 12,
+      "name": "kumkum",
+      "city": "bhopal",
+      "fees": 1234
+    },
+    {
+      "id": "4846"
+    }
+  ]
+}
